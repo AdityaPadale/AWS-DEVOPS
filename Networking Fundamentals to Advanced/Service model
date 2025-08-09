@@ -1,0 +1,62 @@
+Service Model of Cloud (IaaS, PaaS, SaaS)
+
+
+
+* Deployment Models of the Cloud
+
+1) Private Cloud
+
+Cloud service used by single organization.
+
+Not exposed publicly.
+
+Example: Rackspace
+
+
+2) Public Cloud
+
+Owned and operated by third-party providers.
+
+Example: AWS, Azure, GCP
+
+
+3) Hybrid Cloud
+
+Some data/resources in private, some in public.
+
+Example: AWS 
+
+Secure Shell Protocol (Authenticate)
+
+
+
+Diagram:
+
+(Private Key)            (Public Key)
+Client ────────────────► [Server]
+ 
+
+* Note
+
+Client has: Private Key
+
+Server has: Public Key
+
+
+
+* Firewall (2 Types)
+
+1. Network Layer Firewall (NACL)
+
+
+2. Instance Layer Firewall (SG)
+
+
+
+
+
+
+
+
+
+
